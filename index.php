@@ -82,13 +82,10 @@
             <div>
                 <form method="post">
                 <?php
-                        $servername = "localhost";
-                        $username = "alexa";
-                        $password = "hackMizZou2016!";
-                        $database = "alexaAPI";
                         $query = "SELECT * FROM persson";
+                        include 'includes/psl-config.php';
         
-                        $conn = mysqli_connect($servername, $username, $password, $database);
+                        $conn = mysqli_connect(HOST, USER, PASSWORD, DATABASE);
                     
                         if(mysqli_connect_error()) {
                             echo "Connection failed: " . mysqli_connect_error();
