@@ -1,6 +1,5 @@
 # hack_mizzou2016
 
-<<<<<<< HEAD
 ##GIT Commands
 Checkout (go to) a new branch:
 >git checkout -b branch
