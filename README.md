@@ -1,5 +1,6 @@
 # hack_mizzou2016
 
+<<<<<<< HEAD
 ##GIT Commands
 Checkout (go to) a new branch:
 >git checkout -b <branch>
@@ -26,3 +27,12 @@ Check the status of a branch:
 
 Files that you have messed with need to be noted(committed) by you and added by you.
 Files you haven't messed with don't need any action by you.
+=======
+CHRIS WAS HERE ;) 
+
+Dre the Kewlest
+CHRIS WAS HERE ;)
+Jon was too^^ 
+Dre's the kewlest
+Saitama sama was here
+>>>>>>> 87dc31858d5daae4a1697e7e2b1b21fffed2dcde
