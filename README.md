@@ -1,37 +1,27 @@
-# hack_mizzou2016
+# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/)
 
-##GIT Commands
-Checkout (go to) a new branch:
->git checkout -b branch
+[SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-Add a file(that you made changes to) to be tracked by your branch:
->git add file
+## Getting Started
 
-Add a commit to record changes to the repository:
->git commit -m "msg"
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-sb-admin.git`
+* Fork the repo
 
-Produce a GIT log with stats:
->git log --stat> branch(or master)_name.log
+## Bugs and Issues
 
-Merge changes from branch with master:
->git checkout master
->>git pull (Get updated version of repo)
->>>git merge branch
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/sb-admin/).
 
-Push a branch to the repository:
->git push -u origin branch
+## Creator
 
-Check the status of a branch:
->git status
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-Files that you have messed with need to be noted(committed) by you and added by you.
-Files you haven't messed with don't need any action by you.
-=======
-CHRIS WAS HERE ;) 
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-Dre the Kewlest
-CHRIS WAS HERE ;)
-Jon was too^^ 
-Dre's the kewlest
-Saitama sama was here
->>>>>>> 87dc31858d5daae4a1697e7e2b1b21fffed2dcde
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/gh-pages/LICENSE) license.
