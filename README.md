@@ -3,10 +3,10 @@
 <<<<<<< HEAD
 ##GIT Commands
 Checkout (go to) a new branch:
->git checkout -b <branch>
+>git checkout -b branch
 
 Add a file(that you made changes to) to be tracked by your branch:
->git add <file>
+>git add file
 
 Add a commit to record changes to the repository:
 >git commit -m "msg"
@@ -17,10 +17,10 @@ Produce a GIT log with stats:
 Merge changes from branch with master:
 >git checkout master
 >git pull (Get updated version of repo)
->git merge <branch>
+>git merge branch
 
 Push a branch to the repository:
->git push -u origin <branch>
+>git push -u origin branch
 
 Check the status of a branch:
 >git status
