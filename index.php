@@ -12,6 +12,7 @@
 
   </head>
   <body>
+    <?php include "includes/input_process.php"; ?>
     <p>Repo setup</p>
     <div id="header">Alexa - Study</div>
     <div>content</div>
