@@ -1,7 +1,9 @@
 # hack_mizzou2016
-<<<<<<< HEAD
-Ochi was here
-=======
 
 CHRIS WAS HERE ;) 
->>>>>>> 1945332ba13a49e157b8d06f077121dff4f40fe5
+
+Dre the Kewlest
+CHRIS WAS HERE ;)
+Jon was too^^ 
+Dre's the kewlest
+Saitama sama was here
