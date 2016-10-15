@@ -16,8 +16,8 @@ Produce a GIT log with stats:
 
 Merge changes from branch with master:
 >git checkout master
->git pull (Get updated version of repo)
->git merge branch
+>>git pull (Get updated version of repo)
+>>>git merge branch
 
 Push a branch to the repository:
 >git push -u origin branch
